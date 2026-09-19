@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Meu nome é Bruno, prazer!
+# Meu nome é Bruno, prazer!
 Amo animais - especialmente *gatos* - e jogos desafiadores como *MOBA*s, também de jogos co-op como R.E.P.O., Peak, Gartic, entre outros. Tenho curiosidade sobre emulação de jogos em dispositivos móveis e portabilidade de um modo geral, inclusive passo boa parte do meu tempo aprendendo a "codar" numa tela de celular.
 Já atuei como instrutor de inglês em três instituições diferentes, sendo uma delas *on-line*, onde usei a IA para ajudar a estruturar e planejar as aulas de acordo com as necessidades de cada aluno, além de registrar tudo numa planilha de *excel* para supervisionamento dos coordenadores.
 Atualmente trabalhando em um projeto de aplicativo para uma empresa que presta serviços de creche/hotel e banho/tosa para cães.
