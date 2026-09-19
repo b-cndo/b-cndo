@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá!/Hello! 👋
 
 <!--
 **b-cndo/b-cndo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Atualmente trabalhando em um projeto de aplicativo para uma empresa que presta serviços de creche/hotel e banho/tosa para cães.
+No tempo disponível, estou cursando **ADS** e aprendendo sobre as linguagens *Java*, *JavaScript*, *HTML*, *CSS* e os frameworks **React Native** e **BootStrap**.
